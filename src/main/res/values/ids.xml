@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="calculate" type="id" />
+    <item name="result" type="id" />
+    <item name="ftoc" type="id" />
+    <item name="ctof" type="id" />
+    <item name="input_text" type="id" />
+    <item name="radio_group" type="id" />
+</resources>
